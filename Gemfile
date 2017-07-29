@@ -15,6 +15,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'rspec'
+gem 'bootstrap', '~> 4.0.0.alpha6'
+gem "haml-rails", "~> 0.9"
 
 group :development, :test do
   gem 'byebug', platform: :mri
